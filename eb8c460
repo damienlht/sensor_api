@@ -1,0 +1,12 @@
+[33m73aa0ab[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m create app with FASTapi
+[33mdcb38d4[m add store specifics
+[33m0af5729[m add store methods and tests
+[33m1873e22[m add store class
+[33m81bcc60[m add requirements.txt
+[33meb8c460[m add_ci
+[33m7b8db16[m simplify tests
+[33m67ba5fb[m add real tests with unittest
+[33mad496cf[m add failures and malfunctions
+[33m3d861a9[m use sys.argv to retrieve command line arguments
+[33m35a4796[m creation de la class Sensor
+[33ma9d4933[m add gitignore
